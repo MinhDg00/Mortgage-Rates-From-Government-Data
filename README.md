@@ -3,6 +3,6 @@
  
  On Progress
  
- Current in top 3%. 
+ Current in top 3 ~ 4%. 
  
- Description and Data can be find [here](https://datasciencecapstone.org/competitions/18/mortgage-rates-from-government-data/data/
+Data and Competition Details can be found [here](https://datasciencecapstone.org/competitions/18/mortgage-rates-from-government-data/data/)
